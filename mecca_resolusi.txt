@@ -1,4 +1,7 @@
 WPU RESOLUSI
 - Konsisten untuk ngoding selama 6x seminggu
 - Membuat platform untuk pengelolaan video
-- Membuat forum diskusi 
+- Membuat forum diskusi
+
+- Membuat merchant shop
+- Kolaborasi dengan lebih banyak expert
