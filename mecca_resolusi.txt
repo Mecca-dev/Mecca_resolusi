@@ -3,5 +3,6 @@ WPU RESOLUSI
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
 
-- Membuat merchant shop
 - Kolaborasi dengan lebih banyak expert
+
+- Membuat vlog
