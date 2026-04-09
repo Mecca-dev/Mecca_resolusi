@@ -1,7 +1,6 @@
 RENCANA KONTEN WPU
 
 - Javascript
-* ES6
 * Frameworks Javascript
    ^ Vue
    ^ React
@@ -11,3 +10,6 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Phyton
+* Frameworks CSS
+   ^ Tailwind Css 
+   ^ Bootstrap 
